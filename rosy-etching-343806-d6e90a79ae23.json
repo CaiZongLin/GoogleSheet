@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosy-etching-343806",
+  "private_key_id": "d6e90a79ae23fd73f12b1f8df147744d6837665e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCrqSZ9h1ITVBn6\nIVm8iyvmXwlEEsIz2Nfxkrzv5+wmAkHSkurFr0dHHhHtpHeYND+SE59LqX8qLVkT\n7BuO7eZCyIMAwJibUyI2LdGqppRk3g6oSd2sbZu11b/7eMSUbegM7RVJvayMc1l7\nnEpEG1aZ99gcXWk5ISA1Ie5EYmjkHukCorc1qwlRC2RjeFZ0g3b8mPTx5iZwmb/y\nRhBAHSYrPR58LrZLAkspdsrK46hxa/Ts29frNUWymHRq7XxvjhE6hFInL+RTl8XZ\n2CQgR8j0RWv9P7iBodt9PrzMZeWwPkj0l3t5vhSAIWAxOVHAIoAUYsDUR+UVLaYw\n8Q3SsKsZAgMBAAECggEACRIUFZf770eHY981RbA47qBg9fbjyieQKZSuZSLlKJD/\n92eJ/k4nvwtIuTzykNlZ7pcY2L+pF4pz5YiZYDET9L1xpq2GotZ+vUwogxLwTnAp\naB0XGJBmJPKZhWk5QfqYw24XrODX6EgEF3MHvZeQOOyOv9jzwXANqqETXQuyLTOa\nucXanAIfhRK2My2tX/yJUgoHtaS9J029/DFHBmjgx9jyL7HCnk+OZdOzQXxCubkE\n7m8Jx5St8tEAGHEgMSY13B6W1YoFiE3Pmf2b90EZm8TEMW0cmWWMk45hByqqlEa1\nK1n334Y4j3tHTUmWEzERjTX1AHfalxcS8gKQ5mhegQKBgQDgY+neKLPhl1C55Qra\nMvbr/yJPjVVRay8Ol31Iy1wB/g9WK1kjMCJkMAeO/Tn9ulOIt4XIC5aoAAQ69a1O\n+mmwfXeXDF1IDt9e5Ipt3GVQHLnHpBCnqFXLxiECvZ8Q6VRUksXV/qw89z+pTAZ1\nCx6tvtm3RsmRp20WsEH8wZH6qQKBgQDD16zFGewHCVQc3Ol9UNueiZkdBsvppJVm\nU4UyOdgLNdki+Tzl0jGvIhXtSDDuzP7xwZKqCLAF5OzdwlZhxpO1D8/SFfRQi7x5\nmhC6RGWyqRfhGZYdTfBSwcO3uclKGWRqELa4qicNTLgcbO6aadLBPKi8MkgPpOyw\n1hpDfDdi8QKBgQCNJixxw/bLPEzacrpt4Uszzoy9r/DwQ1UZf6+ef9WDp1XsZV4v\n5VJs5U2L47x73542TQNJgAin60K999ap7JlZHMOCb5OqBTj7TxXI36+XQkqWy5xy\nalB1207ek3sgvzV98cmiwA2GWB1imGEjdPg6YOhBArU++yuC7yLDJNx36QKBgQC8\nHievDL9T4voQ34LJBSpwluukniqxO47mw8NmA3orCoaQuahtegKPn8ZALuASAofB\n4ZboDYBHqSZ9vXcMZJrtiUqvGrebxx48EGmRArJNc2+kodc4Pu1iEQ3XJXbc3pc9\n6uAZchghBliztU9cs9nmFEZgwEvH+zwAgSipOmBZgQKBgQCfKRDE/dS0QCUklXnb\nzfkm2xLDkQysMxQZz24sznuB3Qq4cOC6K7jr7AEewhr7upLk28hafg7NiZJ2magH\nwlhMCwcS2yyx1sp1F2wdsLid1WbDxxvly9iuoqYvi1y9FvUjR+cN5769hZ4kz9uV\n3BdxgQ3vIdNugvVmiWC9+4MuXg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@rosy-etching-343806.iam.gserviceaccount.com",
+  "client_id": "112009498001549527160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40rosy-etching-343806.iam.gserviceaccount.com"
+}
